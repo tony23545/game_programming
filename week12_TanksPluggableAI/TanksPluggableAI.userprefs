@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\PluggableAI\Scripts\LookDecision.cs">
+    <Files>
+      <File FileName="Assets\PluggableAI\Scripts\StateController.cs" Line="79" Column="2" />
+      <File FileName="Assets\PluggableAI\Scripts\Decision.cs" Line="8" Column="2" />
+      <File FileName="Assets\PluggableAI\Scripts\LookDecision.cs" Line="21" Column="44" />
+      <File FileName="Assets\PluggableAI\Scripts\Transition.cs" Line="5" Column="22" />
+      <File FileName="Assets\PluggableAI\Scripts\State.cs" Line="21" Column="3" />
+      <File FileName="Assets\PluggableAI\Scripts\ChaseAction.cs" Line="13" Column="48" />
+      <File FileName="Assets\PluggableAI\Scripts\PatrolAction.cs" Line="15" Column="21" />
+      <File FileName="Assets\PluggableAI\Scripts\AttackAction.cs" Line="13" Column="49" />
+      <File FileName="Assets\PluggableAI\Scripts\ScanDecision.cs" Line="11" Column="3" />
+      <File FileName="Assets\PluggableAI\Scripts\ActiveStateDecision.cs" Line="10" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
